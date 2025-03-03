@@ -32,7 +32,7 @@ a Software Engineering Student at Telkom University.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Can👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Use👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
