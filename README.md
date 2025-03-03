@@ -13,8 +13,17 @@ a Software Engineering Student at Telkom University.
 </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2>
+        <a href="https://github.com/piyushsuthar/github-readme-quotes">
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+        </a>
+      </h2>
+    </summary>
+  </ul>
+</div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
