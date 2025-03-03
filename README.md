@@ -27,6 +27,6 @@ a Software Engineering Student at Telkom University.
 <!-- Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,dart,csharp,cpp,java,postman,go,html,js,css,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,figma,dart,jsp,cpp,java,postman,go,html,js,css,mysql&perline=14" />
   </a>
 </p>
