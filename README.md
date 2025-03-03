@@ -13,6 +13,9 @@ a Software Engineering Student at Telkom University.
 </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/restuzaki/count.svg" alt="visitor badge"/></p>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary>
